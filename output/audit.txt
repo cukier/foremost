@@ -1,0 +1,13 @@
+Foremost version 3.16 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Thu Jan 19 13:33:54 2012
+Invocation: /cygdrive/d/Projetos/foremost/Debug/foremost 
+Output directory: output
+Configuration file: /cygdrive/d/Projetos/foremost/foremost.conf
+
+0 FILES EXTRACTED
+	
+------------------------------------------------------------------
+
+Foremost finished at Thu Jan 19 13:33:54 2012
